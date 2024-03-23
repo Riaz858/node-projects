@@ -1,1 +1,2 @@
-# node-projects
+# node-project
+simple CLI calculator 
