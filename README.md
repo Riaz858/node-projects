@@ -1,3 +1,3 @@
 # node-projects
 
-Ramzan Coding Nights
+Project's Assignments (Ramzan Coding Nights)
